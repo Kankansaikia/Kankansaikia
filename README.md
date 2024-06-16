@@ -1,6 +1,8 @@
 - 👋 Hi, I’m @Kankansaikia
-- 👀 I’m interested in Data Structures and Algorithm, MYSQL, Web Development
+- 👀 I’m interested in Data Structures and Algorithm, Web Development and ML
 - 🌱 I’m currently learning DSA,Web Development
+
+- 
 
 <!---
 Kankansaikia/Kankansaikia is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
