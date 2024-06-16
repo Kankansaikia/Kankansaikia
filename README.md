@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @Kankansaikia
 - 👀 I’m interested in Data Structures and Algorithm, Web Development and ML
-- 🌱 I’m currently learning DSA,Web Development
+- 🌱 I’m currently learning DSA, Web Development
+- Interested in Machine Learning.
 
 - 
 
