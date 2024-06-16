@@ -3,7 +3,6 @@
 - 🌱 I’m currently learning DSA, Web Development
 - Interested in Machine Learning.
 
-- 
 
 <!---
 Kankansaikia/Kankansaikia is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
